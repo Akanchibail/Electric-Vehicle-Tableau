@@ -1,11 +1,37 @@
-# Electric-Vehicle-Tableau
-This project features an interactive electric vehicle (EV) dashboard created using Tableau. The dashboard is designed to analyze and visualize key metrics related to EVs in Washington, DC, using data sourced from a Kaggle dataset. Key performance indicators include the total number of EVs, average electric range, and the proportions of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
+🚗 Electric Vehicle Tableau Dashboard ⚡
+Welcome to the Electric Vehicle (EV) Tableau Dashboard project! This interactive dashboard is designed to visualize key metrics related to Electric Vehicles in Washington, DC, using data sourced from a Kaggle dataset.
 
-The dashboard includes five dynamic visualizations:
+📊 Key Performance Indicators (KPIs):
+Total number of EVs in Washington, DC
+Average electric range of the EVs
+Proportion of Battery Electric Vehicles (BEVs) to total vehicles
+Proportion of Plug-in Hybrid Electric Vehicles (PHEVs) to total vehicles
+📈 Dynamic Visualizations:
+The dashboard includes five engaging visualizations to explore the data:
 
-An area chart displaying total vehicles by model year.
-A map showing vehicle distribution across the USA.
-A bar graph of the top 10 vehicle makes.
-A pie chart of Clean Alternative Fuel Vehicle (CAFV) eligibility.
-A table of vehicles by model.
-It also features four interactive filters to allow users to explore the data based on CAFV eligibility, EV type, vehicle model, and state. Users can interact with any of the visualizations to see updates reflected across the entire dashboard, providing a detailed and responsive analysis of the EV landscape.
+Area Chart: Total vehicles by model year
+Map: Distribution of vehicles across the USA
+Bar Graph: Top 10 vehicle makes
+Pie Chart: CAFV (Clean Alternative Fuel Vehicle) eligibility
+Table: List of vehicles by model
+🔍 Interactive Filters:
+The dashboard includes four interactive filters that allow users to filter data based on:
+
+CAFV Eligibility
+EV Type
+Vehicle Model
+State
+Users can interact with any of the visualizations to dynamically update the entire dashboard, providing a seamless and responsive analysis of the EV landscape. 🚗🌍
+
+🌟 Check Out the Live Dashboard:
+Explore the live dashboard using this link:
+👉 EV Dashboard on Tableau Public
+
+💻 Project Files:
+Tableau Workbook: EVDashboard.twbx
+Excel Data: EVData.xlsx
+📝 How to Run the Dashboard:
+Download the Tableau Desktop (if you don't have it already).
+Open the .twbx file using Tableau Desktop to explore the interactive dashboard.
+Optionally, use the provided data file (EVData.xlsx) to recreate or update the dashboard.
+Feel free to explore, share, or contribute to the project! 🚗⚡
