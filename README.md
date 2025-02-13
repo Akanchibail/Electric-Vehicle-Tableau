@@ -25,7 +25,7 @@ Users can interact with any of the visualizations to dynamically update the enti
 
 🌟 Check Out the Live Dashboard:
 Explore the live dashboard using this link:
-👉 EV Dashboard on Tableau Public
+👉 https://public.tableau.com/app/profile/akshay.k2519/viz/EVProject_17375789950470/EVDashboard
 
 💻 Project Files:
 Tableau Workbook: EVDashboard.twbx
