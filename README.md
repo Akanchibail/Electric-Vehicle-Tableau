@@ -24,8 +24,7 @@ State
 Users can interact with any of the visualizations to dynamically update the entire dashboard, providing a seamless and responsive analysis of the EV landscape. 🚗🌍
 
 🌟 Check Out the Live Dashboard:
-Explore the live dashboard using this link:
-👉 https://public.tableau.com/app/profile/akshay.k2519/viz/EVProject_17375789950470/EVDashboard
+Explore the live dashboard using this link:👉 https://public.tableau.com/app/profile/akshay.k2519/viz/EVProject_17375789950470/EVDashboard
 
 💻 Project Files:
 Tableau Workbook: EVDashboard.twbx
