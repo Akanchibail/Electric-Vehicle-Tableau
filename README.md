@@ -30,7 +30,7 @@ Explore the live dashboard using this link:👉 https://public.tableau.com/app/p
 
 💻 Project Files:<br>
 Tableau Workbook: EVDashboard.twbx <br>
-Excel Data: EVData.xlsx <br>
+Excel Data: Electric_Vehicle_Population_Data.xlsx <br>
 
 📝 How to Run the Dashboard: <br>
 Download the Tableau Desktop (if you don't have it already). <br>
